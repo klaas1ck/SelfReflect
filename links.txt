@@ -1,8 +1,8 @@
 Links
 
 Jeg har lave et ny projekt i github, da vi er valgt at gå med en ny ide.
-Link til Github:
-Link til videodemonstration af App: 
+Link til Github: https://github.com/klaas1ck/SelfReflect
+Link til videodemonstration af App: https://www.youtube.com/watch?v=hhIhrMxLFi8
 
 Kodeinspiration: 
 
