@@ -1,0 +1,28 @@
+Links
+
+Jeg har lave et ny projekt i github, da vi er valgt at gå med en ny ide.
+Link til Github:
+Link til videodemonstration af App: 
+
+Kodeinspiration: 
+
+Øvelsesvejledning, hvor vi i timen har gennemgået en login solution i React Native. 
+Jeg oplevede dog store udfordringer i forbindelse med at bruge nyere packages vs gamle packages
+I forbindelse med at kunne få koden til at virke i henhold til oprettelse af users i Firebase
+Så påtrods af flere eksempler jeg har fulgt på youtube, har udfordringen været med at de nye packages ikke virker.
+Jeg har derfor valgt at installere en ældre version af firebase, således jeg kan benytte mig af nogle af deres metoder som måske er baseret på ældre dokumentation.
+
+Youtube tutorial som der har taget inspiration for i henhold til strukturen er følgende video:
+https://www.youtube.com/watch?v=MJzmZ9qmdaE&t=5213s
+
+Planen er at bygge videre på app'en ovenpå den grundlæggende struktur fra youtube videoen.
+Han har dog i hans Navigation valgt at have en grundlæggende skærm med views, men fordelt over flere lag.
+Hvorimod vi gerne vil have forskellige views fordelt med en Bottom Tab Navigator, men den bruger han ikke i videoen.
+
+Vi er 2 i studiegruppen, hvorfor min kammerat har fået ansvaret for at lave en homepage med en bottom tab navigator.
+Planen er derfor at implementere hans view for homepage over i projektet, således vi både har login/sign up funktion, men også en homepage. 
+Således at vi arbejder på to forskellige dele af appen. 
+
+Link til dokumentation brugt:
+https://firebase.google.com/docs/auth/web/password-auth (har henter funktionerne herfra)
+
